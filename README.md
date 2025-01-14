@@ -28,6 +28,4 @@ Feel free to explore my repositories and dive into the code! 🚀
 
 - 📫 **Email**: [christos.eleftheriou@outlook.com](mailto:christos.eleftheriou@outlook.com)
 - 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/)
-- 📝 **Github**: [https://https://github.com/celeft01](https://https://github.com/celeft01)
-
-I’m always open to collaboration and new opportunities. Let’s create something amazing together!
+- 📝 **Github**: [https://github.com/celeft01](https://https://github.com/celeft01)
