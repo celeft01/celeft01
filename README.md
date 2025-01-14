@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-I am Christos Eleftheriou, a **Computer Scientist** with a **BSc in Computer Science** and a recently completed **MSc in Artificial Intelligence**. My journey in the tech world has been fueled by a deep curiosity and a commitment to creating impactful solutions using cutting-edge technology.
+I am Christos Eleftheriou, a University of Cyprus graduate with a **BSc in Computer Science** and an **MSc in Artificial Intelligence**. My journey in the tech world has been fueled by a deep curiosity and a commitment to creating impactful solutions using cutting-edge technology.
 
 ---
 
@@ -26,13 +26,8 @@ Feel free to explore my repositories and dive into the code! 🚀
 
 ## 🌍 Let’s Connect
 
-- 📫 **Email**: [your-email@example.com](mailto:your-email@example.com)
+- 📫 **Email**: [christos.eleftheriou@outlook.com](mailto:christos.eleftheriou@outlook.com)
 - 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/)
-- 📝 **Portfolio**: [Your Portfolio](https://your-portfolio.com)
+- 📝 **Github**: [https://https://github.com/celeft01](https://https://github.com/celeft01)
 
 I’m always open to collaboration and new opportunities. Let’s create something amazing together!
-
----
-
-Thank you for visiting my GitHub profile! 😊
-
