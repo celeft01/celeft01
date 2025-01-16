@@ -27,5 +27,5 @@ Feel free to explore my repositories and dive into the code! 🚀
 ## 🌍 Let’s Connect
 
 - 📫 **Email**: [christos.eleftheriou@outlook.com](mailto:christos.eleftheriou@outlook.com)
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/)
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/christos-eleftheriou-35b56b347/](https://www.linkedin.com/in/christos-eleftheriou-35b56b347/)
 - 📝 **Github**: [https://github.com/celeft01](https://https://github.com/celeft01)
